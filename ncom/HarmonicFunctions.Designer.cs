@@ -273,11 +273,13 @@
             // 
             this.res_entry.Location = new System.Drawing.Point(398, 423);
             this.res_entry.Name = "res_entry";
+            this.res_entry.ReadOnly = true;
             this.res_entry.Size = new System.Drawing.Size(388, 31);
             this.res_entry.TabIndex = 24;
             // 
             // typeA_combo
             // 
+            this.typeA_combo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.typeA_combo.FormattingEnabled = true;
             this.typeA_combo.Items.AddRange(new object[] {
             "Seleccione un Tipo..",
@@ -290,6 +292,7 @@
             // 
             // typeB_combo
             // 
+            this.typeB_combo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.typeB_combo.FormattingEnabled = true;
             this.typeB_combo.Items.AddRange(new object[] {
             "Seleccione un Tipo..",

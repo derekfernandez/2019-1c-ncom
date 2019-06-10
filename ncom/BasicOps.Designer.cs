@@ -186,6 +186,7 @@
             // 
             this.res_entry.Location = new System.Drawing.Point(447, 385);
             this.res_entry.Name = "res_entry";
+            this.res_entry.ReadOnly = true;
             this.res_entry.Size = new System.Drawing.Size(336, 31);
             this.res_entry.TabIndex = 13;
             // 

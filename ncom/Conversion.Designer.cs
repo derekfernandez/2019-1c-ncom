@@ -114,6 +114,7 @@
             // 
             this.resbinompolar_entry.Location = new System.Drawing.Point(486, 203);
             this.resbinompolar_entry.Name = "resbinompolar_entry";
+            this.resbinompolar_entry.ReadOnly = true;
             this.resbinompolar_entry.Size = new System.Drawing.Size(194, 31);
             this.resbinompolar_entry.TabIndex = 14;
             // 
@@ -203,6 +204,7 @@
             // 
             this.respolarbinom_entry.Location = new System.Drawing.Point(495, 198);
             this.respolarbinom_entry.Name = "respolarbinom_entry";
+            this.respolarbinom_entry.ReadOnly = true;
             this.respolarbinom_entry.Size = new System.Drawing.Size(194, 31);
             this.respolarbinom_entry.TabIndex = 5;
             // 

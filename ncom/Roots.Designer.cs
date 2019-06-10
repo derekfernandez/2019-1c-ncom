@@ -90,6 +90,7 @@
             this.primitives_entry.Location = new System.Drawing.Point(241, 239);
             this.primitives_entry.Multiline = true;
             this.primitives_entry.Name = "primitives_entry";
+            this.primitives_entry.ReadOnly = true;
             this.primitives_entry.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.primitives_entry.Size = new System.Drawing.Size(228, 224);
             this.primitives_entry.TabIndex = 5;
@@ -99,6 +100,7 @@
             this.roots_entry.Location = new System.Drawing.Point(17, 239);
             this.roots_entry.Multiline = true;
             this.roots_entry.Name = "roots_entry";
+            this.roots_entry.ReadOnly = true;
             this.roots_entry.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.roots_entry.Size = new System.Drawing.Size(218, 224);
             this.roots_entry.TabIndex = 6;

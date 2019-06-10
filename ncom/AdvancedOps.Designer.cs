@@ -164,6 +164,7 @@
             this.res_entry.Location = new System.Drawing.Point(258, 358);
             this.res_entry.Multiline = true;
             this.res_entry.Name = "res_entry";
+            this.res_entry.ReadOnly = true;
             this.res_entry.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.res_entry.Size = new System.Drawing.Size(530, 198);
             this.res_entry.TabIndex = 12;
